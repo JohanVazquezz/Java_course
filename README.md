@@ -1,2 +1,2 @@
 # Java_course
->java course
+>operadores, condicionales
